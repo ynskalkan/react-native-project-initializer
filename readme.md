@@ -1,1 +1,1 @@
-# React Native Prohect Initializer
+# React Native Project Initializer
